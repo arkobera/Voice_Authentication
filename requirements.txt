@@ -1,0 +1,8 @@
+speechbrain
+gradio
+torch
+numpy
+pyaudio
+soundfile
+wave
+librosa

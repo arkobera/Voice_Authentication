@@ -59,5 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- [SpeechBrain](https://speechbrain.github.io/) for providing powerful speech processing models.
-```
+[SpeechBrain](https://speechbrain.github.io/) for providing powerful speech processing models.

@@ -1,5 +1,3 @@
-Got it! Here’s an updated `README.md` to reflect the changes:  
-
 ```markdown
 # Voice Authentication System
 
@@ -64,5 +62,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [SpeechBrain](https://speechbrain.github.io/) for providing powerful speech processing models.
 ```
-
-Let me know if you want to tweak anything! 🚀

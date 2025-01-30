@@ -1,4 +1,3 @@
-```markdown
 # Voice Authentication System
 
 ## Overview
@@ -19,7 +18,7 @@ This project implements a **voice authentication system** using **SpeechBrain** 
 
    ```bash
    pip install speechbrain torchaudio
-   ```
+
 
 ### Running the Verification
 

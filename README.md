@@ -25,7 +25,7 @@ This project implements a **voice authentication system** using **SpeechBrain** 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/voice-authentication.git
+   git clone https://github.com/arkobera/Voice_Authentication.git
    cd voice-authentication
    ```
 
